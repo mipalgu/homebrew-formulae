@@ -1,9 +1,9 @@
 class Swiftenv < Formula
   desc "Swift version manager"
-  homepage "https://github.com/kylef/swiftenv"
-  url "https://github.com/kylef/swiftenv/archive/1.3.0.tar.gz"
-  sha256 "6856e8f7e677ad4025525f9eebad0a0c7f1cd9a29cf59d06044f95b2b9dbc209"
-  head "https://github.com/kylef/swiftenv.git"
+  homepage "https://github.com/rhx/swiftenv"
+  url "https://github.com/rhx/swiftenv/archive/1.4.0.tar.gz"
+  sha256 "8688f23d8da47f8f4be44dab574b0d7416014127116d56ac6ce8b7af0589187f"
+  head "https://github.com/rhx/swiftenv.git"
 
   def install
     prefix.install Dir["*"]
