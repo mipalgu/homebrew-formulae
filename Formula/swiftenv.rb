@@ -1,8 +1,8 @@
 class Swiftenv < Formula
   desc "Swift version manager"
   homepage "https://github.com/rhx/swiftenv"
-  url "https://github.com/rhx/swiftenv/archive/1.4.0.tar.gz"
-  sha256 "8688f23d8da47f8f4be44dab574b0d7416014127116d56ac6ce8b7af0589187f"
+  url "https://github.com/rhx/swiftenv/archive/1.4.1.tar.gz"
+  sha256 "2b96332db0de8bf17e35021c3feaac26e1e62b9bbc09f074a47716321b178b11"
   head "https://github.com/rhx/swiftenv.git"
 
   def install
